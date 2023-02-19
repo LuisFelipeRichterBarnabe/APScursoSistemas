@@ -1,0 +1,21 @@
+body{
+    background-image: url('imagem/newFundo.gif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.login{
+    background-color: brown;
+    text-align: center;
+    width: 280px;
+    padding: 30px;
+}
+
+.input{
+    caret-color: blue;
+    border-radius: 18px 9px;
+    border: 1px solid rgb(4, 4, 20);
+    background-color: rgb(153, 153, 255);
+}
+
